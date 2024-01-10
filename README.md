@@ -1,2 +1,0 @@
-# doctor-backend
-backend project

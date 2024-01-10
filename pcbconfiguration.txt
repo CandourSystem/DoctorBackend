@@ -1,3 +1,0 @@
-d:
-cd quizsystem\feeserver
-mvn spring-boot:run
